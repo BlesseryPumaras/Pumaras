@@ -1,0 +1,45 @@
+{
+  "profile": {
+    "name": "Blessery Joy H. Pumaras",
+    "initials": "BJP",
+    "course": "BSIT Student",
+    "specialization": "Aspiring Networking Specialist",
+    "bio": "Networking student passionate about hardware troubleshooting, fixing network connection and UTP cabling.",
+    "hobbies": ["playing guitar", "cooking", "drawing"],
+    "image": "IMG_20260623_171359.jpg"
+  },
+  "education": {
+    "degree": "BSIT",
+    "school": "Nueva Vizcaya State University - Bambang Campus",
+    "expectedGraduation": "2026"
+  },
+  "skills": {
+    "technical": ["System Unit Assembly", "UTP Cabling"],
+    "networking": ["Basic Networking", "Network Fix"],
+    "tools": ["Crimping Tool", "LAN Tester"],
+    "softSkills": ["Communication", "Teamwork"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "description": "Responsive portfolio"
+    },
+    {
+      "id": 2,
+      "title": "UTP Cable Making",
+      "description": "Straight-through & crossover"
+    },
+    {
+      "id": 3,
+      "title": "System Unit Assembly",
+      "description": "Hardware troubleshooting"
+    }
+  ],
+  "contact": {
+    "email": "blessyjoypumaras@gmail.com",
+    "phone": "09471959767",
+    "facebook": "Blessery Joy H. Pumaras",
+    "github": "https://github.com/blehpumaras"
+  }
+}
